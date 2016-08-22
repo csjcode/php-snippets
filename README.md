@@ -14,3 +14,4 @@ PHP snippets for maniulating data, xml, json
 * doJsonDecodingReddit.php - Decoding Reddit JSON.
 * doJsonErrorHandling.php - check for json decoding errors.
 * doJsonHandler.php - Full JSON handler including error handling.
+* doJsonSerializable - For working with PHP built-in object arrays output. Example with datestamps to ISO8601.
